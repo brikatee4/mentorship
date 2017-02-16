@@ -19,12 +19,12 @@ Please refer to the [Mentor Guidebook](https://github.com/OperationCode/mentorsh
 ## Squads
 
 The squad framework is a way for Operation Code members to be grouped with mentors in order to work towards a common goal.
-As a mentor you can either lead or help support a squad.
+As a mentor you can either lead or help support a squad. 
+If you see a squad in progress and would like to join notify the squad leader for more information.
 
 ### Starting A Squad
 
 To start a squad you will need to identify a few items first. 
-*TODO: Create an airtables form?*
 
 At a minimum you will need:
 * A theme for the squad. This should be a finite, measurable goal the squad can work towards.
@@ -32,10 +32,15 @@ At a minimum you will need:
 * A minimum number of members required to start the squad
 * A maximum number of members in the squad
 * A minimum skill level (beginner, intermediate, advanced)
+* Can a member join the squad after it has started?
 * A weekly schedule of activities for the squad. This can be as simple as office hours, or as extensive as project deadlines
 * An end date or condition for the squad
 
-Once these items have been defined you can start promoting your squad to our general members. 
+When you've gathered these requirements please fill out the following form:
+
+*TODO: Create an airtables form?*
+
+Once these items have been defined and the form has been filled out you can start promoting your squad to our general members. 
 When you reach your minimum members you can set a start date on your squad.
 
 ### Running a squad
@@ -43,8 +48,8 @@ When you reach your minimum members you can set a start date on your squad.
 While your squad is running be sure to:
 * Stick to the schedule
 * Keep seeking feedback from your squad mates
-* If you're the squadleader reach out to your fellow mentors at least twice a month
-* If you're the squadleader reach out to a mentorship staff member at least twice a month
+* If you're the squad leader reach out to your fellow mentors at least twice a month
+* If you're the squad leader reach out to a mentorship staff member at least twice a month
 
 ### Ending a squad
 
