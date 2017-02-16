@@ -12,16 +12,19 @@ Once you're in slack please fill out http://op.co.de/mentor-enrollment. You shou
 
 ## 1 on 1
 
-When you sign up as a mentor you'll identify a few key areas you're able to help in. We'll use these areas to match you up with members who are requesting a mentor. See *TBD* for more info
+When you sign up as a mentor you'll identify a few key areas you're able to help in. We'll use these areas to match you up with members who are requesting a mentor. When a memeber requests a mentor they'll be matched with one of our mentors. If you match the areas of interest for the mentee you'll be paired up and notified. 
+
+Please refer to the [Mentor Guidebook](https://github.com/OperationCode/mentorship/blob/master/GUIDEBOOK.md) for more details on how to work with your mentee.
 
 ## Squads
 
-The squad system is a way for Operation Code members to be grouped with mentors in order to work towards a common goal.
+The squad framework is a way for Operation Code members to be grouped with mentors in order to work towards a common goal.
 As a mentor you can either lead or help support a squad.
 
 ### Starting A Squad
 
-To start a squad you will need to identify a few items first. *TODO: Create an airtables form?*
+To start a squad you will need to identify a few items first. 
+*TODO: Create an airtables form?*
 
 At a minimum you will need:
 * A theme for the squad. This should be a finite, measurable goal the squad can work towards.
@@ -38,7 +41,7 @@ When you reach your minimum members you can set a start date on your squad.
 ### Running a squad
 
 While your squad is running be sure to:
-* stick to the schedule
+* Stick to the schedule
 * Keep seeking feedback from your squad mates
 * If you're the squadleader reach out to your fellow mentors at least twice a month
 * If you're the squadleader reach out to a mentorship staff member at least twice a month
