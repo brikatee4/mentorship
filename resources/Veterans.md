@@ -13,7 +13,6 @@
 * [Accenture Veteran Technology Training Program](https://www.accenture.com/us-en/careers/accenture-veteran-technology-training-program)
 * [Onward To Opportunity](http://onward2opportunity.org/)
 * [IVMF (Syracuse.edu)] (https://ivmf.syracuse.edu/)
-* [AWS Educate] (https://aws.amazon.com/education/awseducate/veterans/)
 * [Microsoft Military Resources](http://military.microsoft.com/)
 * [Microsoft Software & Systems Academy (MSSA) scholarship](http://military.microsoft.com/training/mssa/)
 * [Lynda.com -- 1 year free video tutorials subscription](https://blog.linkedin.com/2015/11/11/honoring-our-service-members-veterans-with-1-year-free-learning-on-lynda-com)
