@@ -14,6 +14,8 @@
 * [Github for Developers -- Day 1 (September 22, 2016)](https://vimeo.com/184964934/6eb0748a7b)
 * [Github for Developers -- Day 2 (September 23, 2016)](https://vimeo.com/184964933/ef06c54945)
 * [Git Game](https://www.git-game.com/)
+* [List of Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
+ * A list of projects in various languages which are all marked as beginner-friendly by their creators.
 
 ## Linux
 * [Linux Journey](https://linuxjourney.com/)
