@@ -38,7 +38,7 @@ At a minimum you will need:
 
 When you've gathered these requirements please fill out the following form:
 
-*TODO: Create an airtables form?*
+https://op.co.de/squad-request
 
 Once these items have been defined and the form has been filled out you can start promoting your squad to our general members. 
 When you reach your minimum members you can set a start date on your squad.
